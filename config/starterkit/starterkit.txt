@@ -3,7 +3,7 @@
 'chest' : '',
 'legs' : '',
 'feet' : '',
-0 : '{Count:1b,id:"minecraft:written_book",tag:{author:"Horizon0516",pages:['{"text":"Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Fuckton of Bugs."}'],title:"Bugs"}}',
+0 : '{Count:1b,id:"minecraft:written_book",tag:{author:"Horizon0516",pages:['{"text":"Bugs, Bugs, Bugs, Bus, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Bugs, Fuckton of Bugs."}'],title:"Bugs"}}',
 1 : '{Count:1b,id:"guideapi_vp:vampirism-guidebook"}',
 2 : '',
 3 : '',
