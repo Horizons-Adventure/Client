@@ -1,0 +1,16 @@
+crash-reports
+logs
+saves
+screenshots
+XaeroWorldMap
+XaeroWaypoints*
+*.log
+*_old
+usercache.json
+usernamecache.json
+XaeroWorldMap/*
+trees
+servers.dat
+server-resource-packs
+schematics
+minecolonies
