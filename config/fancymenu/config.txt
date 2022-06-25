@@ -22,9 +22,9 @@ B:showcustomizationbuttons = 'true';
 ##[mainmenu]
 
 B:hidebranding = 'true';
-B:hidelogo = 'false';
-B:hiderealmsnotifications = 'false';
-B:hideforgenotifications = 'false';
+B:hidelogo = 'true';
+B:hiderealmsnotifications = 'true';
+B:hideforgenotifications = 'true';
 
 
 ##[mainmenu_splash]
@@ -33,7 +33,7 @@ S:splashcolor = '#ffff00';
 I:splashrotation = '-20';
 I:splashy = '0';
 I:splashx = '0';
-B:hidesplashtext = 'false';
+B:hidesplashtext = 'true';
 S:splashtextfile = '';
 S:splashorientation = 'original';
 
@@ -44,16 +44,16 @@ B:allowgameintroskip = 'true';
 S:loadinganimationcolor = '#ffffffff';
 B:showanimationloadingstatus = 'true';
 S:gameintroanimation = '';
-B:preloadanimations = 'false';
+B:preloadanimations = 'true';
 S:customgameintroskiptext = '';
 
 
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = '';
+S:customwindowtitle = 'Horizon Adventure';
 [A minecraft restart is required after changing this value.]
-B:customwindowicon = 'false';
+B:customwindowicon = 'true';
 
 
 ##[world_loading_screen]
