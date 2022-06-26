@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = C:/Users/Aaron/Desktop/Desktop/Games/MultiMC/instances/Mine colonies/.minecraft/saves/New World (3)
+  is_server = true
+  world = 65.108.130.91:25565
 }
 
