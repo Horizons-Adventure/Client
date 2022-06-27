@@ -16,3 +16,5 @@ schematics
 minecolonies
 config/voicechat/
 config/xaerominimap_entities.json
+config/oculus.properties
+config/craftpresence.properties
