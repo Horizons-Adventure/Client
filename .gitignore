@@ -14,5 +14,5 @@ servers.dat
 server-resource-packs
 schematics
 minecolonies
-voicechat
-xaerominimap_entities.json
+config/voicechat/
+config/xaerominimap_entities.json
