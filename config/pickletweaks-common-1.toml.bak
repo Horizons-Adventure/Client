@@ -5,7 +5,7 @@
 	#Ex: ["minecraft:stone_pickaxe", "minecraft:stone_sword"]
 	uselessTools = []
 	#Enabled tools not breaking?
-	toolBreaking = false
+	toolBreaking = true
 
 #Crafting grid tool repair configuration options.
 ["Grid Repair"]
@@ -23,10 +23,16 @@
 	blacklist = []
 	#Here you can specify custom repair materials for tools.
 	#Ex: ["minecraft:stone_shovel=minecraft:stick"]
+
+	["tinkersurvival:crude_hatchet=tinkersurvival:rock_stone"]
+
 	#You can use tags for materials by doing tag:<tag-id>.
 	#Ex: ["minecraft:stone_shovel=tag:forge:ingots/iron"]
 	#You can specify how effective the material is by appending @<multiplier>
 	#Ex: ["minecraft:stone_shovel=minecraft:stick@0.5"]
+
+	["tinkersurvival:crude_hatchet=tinkersurvival:rock_stone@0.5"]
+
 	overrides = ["minecraft:shears=minecraft:iron_ingot", "pickletweaks:flint_shears=minecraft:flint"]
 	#Makes it so shears need 50% less material to repair.
 	cheapShears = true
