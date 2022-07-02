@@ -38,9 +38,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
-  x = -100
+  x = -102
   action = movebutton
-  y = -10
+  y = 29
 }
 
 customization {
@@ -59,9 +59,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
-  x = -100
+  x = -102
   action = movebutton
-  y = 32
+  y = 71
 }
 
 customization {
@@ -74,9 +74,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
-  x = 1
+  x = -1
   action = movebutton
-  y = 32
+  y = 71
 }
 
 customization {
@@ -104,17 +104,17 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
-  x = -100
+  x = -102
   action = movebutton
-  y = -31
+  y = 8
 }
 
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = mid-centered
-  x = -100
+  x = -102
   action = movebutton
-  y = 11
+  y = 50
 }
 
 customization {
@@ -132,5 +132,20 @@ customization {
 customization {
   identifier = %id=376346%
   action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  x = -102
+  width = 200
+  actionid = d9060573-8c5e-42ea-9a4e-d3fbf850d5251656749615010
+  action = addbutton
+  y = -13
+  label = Join the official server!
+  value = mc.domiibunn.live
+  height = 20
 }
 

@@ -14,14 +14,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
-  orientation = mid-left
-  x = 377
-  action = movebutton
-  y = -92
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
   action = hidebutton
 }
@@ -34,22 +26,6 @@ customization {
 customization {
   identifier = %id=374306%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
-  orientation = bottom-left
-  x = 378
-  action = movebutton
-  y = -322
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
-  orientation = mid-left
-  x = 484
-  action = movebutton
-  y = -69
 }
 
 customization {
